@@ -1,0 +1,1 @@
+if you wanna run (why?) some solutions, provide -ea vm option.
