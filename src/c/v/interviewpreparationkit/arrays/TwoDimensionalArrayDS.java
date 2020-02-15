@@ -1,6 +1,6 @@
 package c.v.interviewpreparationkit.arrays;
 
-class TwoDimensionalArrayDS {
+public class TwoDimensionalArrayDS {
     public static void main(String[] args) {
         int[][] grid = {
                 {1, 1, 1, 0, 0, 0},
